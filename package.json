@@ -6,5 +6,8 @@
     "express": "expressjs/express",
     "discord-interactions": "discord/discord-interactions-js"
   },
-  "type": "module"
+  "type": "module",
+  "engines": {
+    "node": ">=19"
+  }
 }

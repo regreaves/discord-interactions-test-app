@@ -1,1 +1,6 @@
-
+{
+  "dependencies": {
+    "express": "expressjs/express",
+    "discord-interactions": "discord/discord-interactions-js"
+  }
+}

@@ -8,6 +8,6 @@
   },
   "type": "module",
   "engines": {
-    "node": ">=19"
+    "node": ">=18"
   }
 }
